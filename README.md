@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Header Image - Glitch Effect -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhmZDM4aDJuZGx6Z215b2E4aDJuZGx6Z215b2E4aDJuZGx6Z215byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LfpjDCLnTeMx2/giphy.gif" width="100%" height="250" style="border-radius: 10px; object-fit: cover;"/>
+  <!-- Header Image - Matrix/Cyberpunk Style (Đã đổi link ổn định) -->
+  <img src="https://media.giphy.com/media/26tn33aiU1jFEOQko/giphy.gif" width="100%" height="250" style="border-radius: 10px; object-fit: cover; opacity: 0.9;"/>
 
   <br><br>
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=USER:+Mai+Quốc+Bảo;Role:+CTF+Player+%7C+Security+Researcher;Mission:+Pwn+The+World;Status:+Cooking+Exploits...+👨‍🍳" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=USER:+Mai+Quốc+Bảo+(sudo-baoz);Role:+CTF+Player+%7C+Root+User;Mission:+Escalating+Privileges...;Status:+Exploiting+The+Kernel" alt="Typing SVG" />
   </a>
 
   <br>
@@ -16,58 +16,55 @@
   <a href="https://ctftime.org/team/412747">
     <img src="https://img.shields.io/badge/CTF_Time-Team_ID:_412747-red?style=for-the-badge&logo=target&logoColor=white&color=black" />
   </a>
-  <a href="mailto:contact@maiquocbao.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white&color=2e2e2e" />
+  <a href="https://github.com/sudo-baoz">
+    <img src="https://img.shields.io/badge/GitHub-sudo--baoz-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
 
 ---
 
-### ⚡ **System Check: `whoami`**
+### 💀 **`root@sudo-baoz:~# whoami`**
 
-> *"I don't just read code, I exploit it. No cap."*
+> *"With great power comes great responsibility... unless you use `sudo`."*
 
-Yo, what's good? 👋 I'm **Mai Quốc Bảo**.
-Một Gen Z chính hiệu sống trong terminal. Đam mê của mình là đào bới các lỗ hổng bảo mật, chơi CTF thâu đêm suốt sáng và biến `segmentation fault` thành `shell`.
+Yo, what's up? 👋 I'm **Mai Quốc Bảo** (a.k.a **sudo-baoz**).
+Một Gen Z sống bằng caffeine và dòng lệnh. Mình thích cảm giác gõ `sudo` để nắm quyền kiểm soát, đào sâu vào binary, và săn cờ (flags) thâu đêm.
 
-*   🔭 **Focus:** Binary Exploitation, Reverse Engineering & Web Security.
-*   🧠 **Brain dump:** Learning Heap Exploitation & Kernel Pwn.
-*   🤝 **Collaboration:** Open for CTF team-ups (Carry me pls).
-*   💬 **Motto:** `flag{h4rd_w0rk_p4ys_0ff}`.
+*   🔭 **Focus:** Binary Exploitation (Pwn), Reverse Engineering.
+*   🧠 **Grinding:** Kernel Exploitation & Advanced Heap tricks.
+*   🐧 **OS:** Arch/Kali (I use Linux btw).
+*   ⚡ **Superpower:** `sudo !!` (Fixing mistakes instantly).
 
 ---
 
-### ⚔️ **The Arsenal (Tech Stack)**
-
-*Công cụ mình dùng để "phá làng phá xóm" (trên môi trường lab thôi nhé 😉)*
+### 🛠️ **The Arsenal (Inventory)**
 
 <div align="center">
 
-| **Languages** | **Hacking Tools** | **Environment** |
+| **Core** | **Weapons** | **Base** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,c,cpp,assembly" /> | <img src="https://skillicons.dev/icons?i=bash,git,docker" /> | <img src="https://skillicons.dev/icons?i=kali,linux,vim,vscode" /> |
-| **Python, C/C++, ASM** | **GDB, IDA Pro, Burp** | **Kali, Ubuntu, Arch** |
+| <img src="https://skillicons.dev/icons?i=c,cpp,python,assembly" /> | <img src="https://skillicons.dev/icons?i=bash,git,docker" /> | <img src="https://skillicons.dev/icons?i=kali,linux,vim,vscode" /> |
+| **Low Level Gods** | **Deploy & Destroy** | **Home Sweet Home** |
 
 </div>
 
 ---
 
-### 🏆 **Tournament History (Hall of Fame)**
+### 🏆 **CTF Hall of Fame (Rankings)**
 
-*Chỗ này là nơi flex nhẹ mấy cái giải đã "chiến". Check my legit stats.*
+*Check my legit stats. No fake flags here.*
 
 <div align="center">
 
-| **Placement** | **Event Name** | **Points** | **Rating** | **Status** |
+| **Placement** | **Event Name** | **Points** | **Rating** | **Mood** |
 | :---: | :--- | :---: | :---: | :---: |
-| **#136** 🌎 | **GlacierCTF 2025** | `450.000` | `3.411` | 🔥 COOKED |
+| **#136** 🌎 | **GlacierCTF 2025** | `450.000` | `3.411` | 🧊 CHILLING |
 | **#92** 🌎 | **M*CTF 2025 Quals** | `201.000` | `0.663` | 🤖 VIBING |
-| ... | *More to come...* | ... | ... | ⏳ LOADING |
+| ... | *Waiting for next target...* | ... | ... | ⏳ LOADING |
 
 <br>
 
-<!-- Nút bấm giả lập Terminal dẫn về CTFTime -->
 <a href="https://ctftime.org/team/412747">
   <img src="https://img.shields.io/badge/>_VIEW_FULL_PROFILE_ON_CTFTIME-00FF00?style=style=flat&logo=hack-the-box&logoColor=black&labelColor=black"/>
 </a>
@@ -76,49 +73,44 @@ Một Gen Z chính hiệu sống trong terminal. Đam mê của mình là đào 
 
 ---
 
-### 📊 **GitHub Statistics (The Grind)**
+### 📊 **Github Intelligence (sudo-baoz)**
 
 <div align="center">
 
-  <!-- Github Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD5&icon_color=CB39FF" height="180" alt="stats graph"  />
+  <!-- Github Stats Card (Đã update user: sudo-baoz) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sudo-baoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" height="180" alt="stats graph"  />
 
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD5" height="180" alt="languages graph" />
+  <!-- Top Langs (Đã update user: sudo-baoz) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-baoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF" height="180" alt="languages graph" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=CB39FF&fire=00FFD5&currStreakNum=00FFD5" alt="streak graph" />
+  <!-- Streak Stats (Đã update user: sudo-baoz) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-baoz&theme=tokyonight&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF" alt="streak graph" />
 </div>
 
 ---
 
-### 💻 **My Life in Code**
+### 💻 **Source Code of My Life**
 
 ```python
-#!/usr/bin/env python3
-import coffee
-import pwn
-
-class MaiQuocBao:
+class SudoBaoz:
     def __init__(self):
-        self.name = "Mai Quốc Bảo"
-        self.sleep_schedule = None  # 404 Not Found
-        self.music = ["Phonk", "Lofi", "Synthwave"]
+        self.user = "Mai Quốc Bảo"
+        self.permission = "ROOT"
+        self.drink = "Monster_Energy"
 
-    def weekend_activity(self):
-        try:
-            while True:
-                pwn.exploit()
-                coffee.sip()
-                if flag_captured:
-                    print("Sheesh! We ballin' 🏀")
-                    break
-        except Exception as e:
-            print("Skill issue detected:", e)
-            # Todo: Git gud
+    def daily_routine(self):
+        # Trying to exit Vim since 2023
+        while alive:
+            ctf_challenge = find_target()
+            if "segmentation fault" in ctf_challenge:
+                cry()
+            else:
+                pwn(ctf_challenge)
+                print("Access Granted. We in. 😎")
 
 if __name__ == "__main__":
-    me = MaiQuocBao()
-    me.weekend_activity()
+    hacker = SudoBaoz()
+    hacker.daily_routine()
