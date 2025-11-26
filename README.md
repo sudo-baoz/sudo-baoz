@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Image - Matrix/Cyberpunk Style (Đã đổi link ổn định) -->
-  <img src="https://media.giphy.com/media/26tn33aiU1jFEOQko/giphy.gif" width="100%" height="250" style="border-radius: 10px; object-fit: cover; opacity: 0.9;"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 
   <br><br>
 
@@ -31,10 +31,10 @@
 Yo, what's up? 👋 I'm **Mai Quốc Bảo** (a.k.a **sudo-baoz**).
 Một Gen Z sống bằng caffeine và dòng lệnh. Mình thích cảm giác gõ `sudo` để nắm quyền kiểm soát, đào sâu vào binary, và săn cờ (flags) thâu đêm.
 
-*   🔭 **Focus:** Binary Exploitation (Pwn), Reverse Engineering.
-*   🧠 **Grinding:** Kernel Exploitation & Advanced Heap tricks.
-*   🐧 **OS:** Arch/Kali (I use Linux btw).
-*   ⚡ **Superpower:** `sudo !!` (Fixing mistakes instantly).
+*   🔭 **Focus:** Binary Exploitation, Reverse Engineering & Web Security.
+*   🧠 **Brain dump:** Learning Heap Exploitation & Kernel Pwn.
+*   🤝 **Collaboration:** Open for CTF team-ups (Carry me pls).
+*   💬 **Motto:** `flag{h4rd_w0rk_p4ys_0ff}`.
 
 ---
 
