@@ -76,19 +76,6 @@ Một Gen Z sống bằng caffeine và dòng lệnh. Mình thích cảm giác g�
 ### 📊 **Github Intelligence (sudo-baoz)**
 
 <div align="center">
-
-  <!-- Github Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sudo-baoz&show_icons=true&hide_border=true&count_private=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" height="180" alt="stats graph" />
-  </a>
-
-  <!-- Top Langs -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-baoz&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=0D1117" height="180" alt="languages graph" />
-  </a>
-
-</div>
-<div align="center">
   <!-- Streak Stats (Đã update user: sudo-baoz) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-baoz&theme=tokyonight&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF" alt="streak graph" />
 </div>
