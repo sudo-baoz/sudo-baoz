@@ -1,88 +1,79 @@
-<!--
-⚠️ HƯỚNG DẪN CONFIG:
-
-Username GitHub đã được set là: sudo-baoz
-
-Nếu bạn có account TryHackMe, hãy thay "your-thm-username" bằng tên thật.
--->
-
 <div align="center">
 
-<!-- Đã xóa bớt ảnh GIF trang trí để tránh lỗi load -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 
-<!-- Hiệu ứng gõ chữ kiểu Terminal - Đã fix link sạch sẽ -->
+  # 💀 SYSTEM BREACH DETECTED... 💀
 
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26pause%3D1000%26color%3D00FF00%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3Droot%2540sudo-baoz%253A~%2524%2Bwhoami%3BCTF%2BPlayer%2B%257C%2BPentester%3BSystem%2BCompromised%2B%25F0%259F%2592%2580" alt="Typing SVG" />
-</a>
+  ### `root@genz:~# whoami`
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=CTF+Player+🚩;Reverse+Engineering+🧩;Ethical+Hacker+🎩;Vibing+with+Binary+🎧)](https://git.io/typing-svg)
 
 </div>
 
-💻 System Status: Online
+---
 
-# User Profile Loaded
-user="sudo-baoz"
-role="Cyber Security Student & CTF Player"
-location="Localhost"
-mission="Hack The Planet 🚩"
+### 🚀 **About Me / The Lore**
 
-# Current Status
-[+] Learning: Malware Analysis & Reverse Engineering
-[+] Playing: TryHackMe, HackTheBox
-[+] Vibe: Coffee ☕ + Code ⌨️ + Dark Mode 🌑
+> *"I don't hack to impress, I hack to express (and maybe get that bounty 💸)."*
 
+Yo, what's good? 👋 I'm **[Tên Của Bạn]**.
+Just a Gen Z keyboard warrior living in the terminal. I spend most of my time reading hex dumps, breaking web apps, and ghosting people to solve CTF challenges. **No cap.**
 
-🛠️ Arsenal (Tech Stack)
+- 🔭 **Currently grinding:** [Tên chứng chỉ/Kỹ năng đang học, vd: OSCP, Heap Exploit]
+- 🚩 **CTF Categories:** Pwn, Web, Crypto (My brain hurts but we move).
+- 🐍 **Main Weapon:** Python & C.
+- 💬 **Ask me about:** Why `gets()` is bad or how to exit Vim.
+- ⚡ **Fun fact:** I consider `0x41414141` as a personality trait.
 
-<!-- Đã fix lại link badges trực tiếp, không qua redirect google để tránh lỗi -->
+---
 
-Languages:
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash_Script-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
-</p>
-
-Tools:
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Burp_Suite-FF6633%3Fstyle%3Dfor-the-badge%26logo%3Dburpsuite%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Metasploit-333333%3Fstyle%3Dfor-the-badge%26logo%3Dmetasploit%26logoColor%3Dwhite" />
-</p>
-
-📊 Analytics
+### 🛠️ **The Arsenal (Tech Stack)**
 
 <div align="center">
-<!-- Đã thay username sudo-baoz và dùng theme radical (tối) ổn định -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsudo-baoz%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FF00%26icon_color%3D00FF00" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsudo-baoz%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FF00" />
+  <img src="https://img.shields.io/badge/Kali_Linux-2023.2-black?style=for-the-badge&logo=kali-linux&color=557C94" />
+  <img src="https://img.shields.io/badge/Python-3.x-black?style=for-the-badge&logo=python&color=3776AB" />
+  <img src="https://img.shields.io/badge/C-Programming-black?style=for-the-badge&logo=c&color=A8B9CC" />
+  <img src="https://img.shields.io/badge/Burp_Suite-Pro-black?style=for-the-badge&logo=burpsuite&color=FF6633" />
+  <img src="https://img.shields.io/badge/Ghidra-Decompiler-black?style=for-the-badge&logo=ghidra&color=red" />
+  <img src="https://img.shields.io/badge/Vim-God_Mode-black?style=for-the-badge&logo=vim&color=019733" />
 </div>
 
+---
+
+### 🏆 **CTF Stats / Flex Zone**
+
+*(Thay link username của bạn vào HackTheBox hoặc TryHackMe)*
+
 <div align="center">
-
-
-
-
-
-<!-- Streak stats (Số ngày code liên tục) -->
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsudo-baoz%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0d1117%26ring%3D00FF00%26fire%3D00FF00%26currStreakNum%3Dffffff" />
+  <a href="https://app.hackthebox.com/profile/YOUR_ID">
+    <img src="http://www.hackthebox.eu/badge/image/YOUR_ID" alt="HackTheBox Profile" />
+  </a>
+  <a href="https://tryhackme.com/p/YOUR_USERNAME">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" alt="TryHackMe">
+  </a>
 </div>
 
+---
+
+### 🎧 **Vibe Check (Coding Playlist)**
+
+<div align="center">
+  <a href="https://spotify.com">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novaterm&bar_color=53b14f&bar_color_cover=false" />
+  </a>
+</div>
+
+---
+
 <div align="center">
 
-📡 Connect with sudo-baoz
+### 📡 **Establish Connection**
 
-<a href="https://www.google.com/search?q=https://github.com/sudo-baoz">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](LINK_DISCORD)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](LINK_TWITTER)
 
-<!-- Bạn có thể thêm link Facebook/Discord của bạn vào đây nếu muốn -->
+<br>
+
+`CTF{y0u_f0und_th3_s3cr3t_fl4g_sheesh}`
 
 </div>
