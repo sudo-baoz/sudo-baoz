@@ -61,7 +61,7 @@ Một Gen Z sống bằng caffeine và dòng lệnh. Mình thích cảm giác g�
 | :---: | :--- | :---: | :---: | :---: |
 | **#136** 🌎 | **GlacierCTF 2025** | `450.000` | `3.411` | 🧊 CHILLING |
 | **#92** 🌎 | **M*CTF 2025 Quals** | `201.000` | `0.663` | 🤖 VIBING |
-| **#92** 🌎 | **CTF - The Maze of Shadows ** | `4559` | `0.653` | 🤖 VIBING |
+| **#3** 🌎 | **CTF - The Maze of Shadows** | `4559` | `0.653` | 🤖 VIBING |
 | ... | *Waiting for next target...* | ... | ... | ⏳ LOADING |
 
 <br>
