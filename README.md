@@ -1,79 +1,124 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <!-- Header Image - Glitch Effect -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhmZDM4aDJuZGx6Z215b2E4aDJuZGx6Z215b2E4aDJuZGx6Z215byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LfpjDCLnTeMx2/giphy.gif" width="100%" height="250" style="border-radius: 10px; object-fit: cover;"/>
 
-  # 💀 SYSTEM BREACH DETECTED... 💀
+  <br><br>
 
-  ### `root@genz:~# whoami`
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=CTF+Player+🚩;Reverse+Engineering+🧩;Ethical+Hacker+🎩;Vibing+with+Binary+🎧)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### 🚀 **About Me / The Lore**
-
-> *"I don't hack to impress, I hack to express (and maybe get that bounty 💸)."*
-
-Yo, what's good? 👋 I'm **[Tên Của Bạn]**.
-Just a Gen Z keyboard warrior living in the terminal. I spend most of my time reading hex dumps, breaking web apps, and ghosting people to solve CTF challenges. **No cap.**
-
-- 🔭 **Currently grinding:** [Tên chứng chỉ/Kỹ năng đang học, vd: OSCP, Heap Exploit]
-- 🚩 **CTF Categories:** Pwn, Web, Crypto (My brain hurts but we move).
-- 🐍 **Main Weapon:** Python & C.
-- 💬 **Ask me about:** Why `gets()` is bad or how to exit Vim.
-- ⚡ **Fun fact:** I consider `0x41414141` as a personality trait.
-
----
-
-### 🛠️ **The Arsenal (Tech Stack)**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-2023.2-black?style=for-the-badge&logo=kali-linux&color=557C94" />
-  <img src="https://img.shields.io/badge/Python-3.x-black?style=for-the-badge&logo=python&color=3776AB" />
-  <img src="https://img.shields.io/badge/C-Programming-black?style=for-the-badge&logo=c&color=A8B9CC" />
-  <img src="https://img.shields.io/badge/Burp_Suite-Pro-black?style=for-the-badge&logo=burpsuite&color=FF6633" />
-  <img src="https://img.shields.io/badge/Ghidra-Decompiler-black?style=for-the-badge&logo=ghidra&color=red" />
-  <img src="https://img.shields.io/badge/Vim-God_Mode-black?style=for-the-badge&logo=vim&color=019733" />
-</div>
-
----
-
-### 🏆 **CTF Stats / Flex Zone**
-
-*(Thay link username của bạn vào HackTheBox hoặc TryHackMe)*
-
-<div align="center">
-  <a href="https://app.hackthebox.com/profile/YOUR_ID">
-    <img src="http://www.hackthebox.eu/badge/image/YOUR_ID" alt="HackTheBox Profile" />
+  <!-- Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=USER:+Mai+Quốc+Bảo;Role:+CTF+Player+%7C+Security+Researcher;Mission:+Pwn+The+World;Status:+Cooking+Exploits...+👨‍🍳" alt="Typing SVG" />
   </a>
-  <a href="https://tryhackme.com/p/YOUR_USERNAME">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" alt="TryHackMe">
+
+  <br>
+
+  <!-- Badges Social -->
+  <a href="https://ctftime.org/team/412747">
+    <img src="https://img.shields.io/badge/CTF_Time-Team_ID:_412747-red?style=for-the-badge&logo=target&logoColor=white&color=black" />
   </a>
+  <a href="mailto:contact@maiquocbao.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white&color=2e2e2e" />
+  </a>
+
 </div>
 
 ---
 
-### 🎧 **Vibe Check (Coding Playlist)**
+### ⚡ **System Check: `whoami`**
+
+> *"I don't just read code, I exploit it. No cap."*
+
+Yo, what's good? 👋 I'm **Mai Quốc Bảo**.
+Một Gen Z chính hiệu sống trong terminal. Đam mê của mình là đào bới các lỗ hổng bảo mật, chơi CTF thâu đêm suốt sáng và biến `segmentation fault` thành `shell`.
+
+*   🔭 **Focus:** Binary Exploitation, Reverse Engineering & Web Security.
+*   🧠 **Brain dump:** Learning Heap Exploitation & Kernel Pwn.
+*   🤝 **Collaboration:** Open for CTF team-ups (Carry me pls).
+*   💬 **Motto:** `flag{h4rd_w0rk_p4ys_0ff}`.
+
+---
+
+### ⚔️ **The Arsenal (Tech Stack)**
+
+*Công cụ mình dùng để "phá làng phá xóm" (trên môi trường lab thôi nhé 😉)*
 
 <div align="center">
-  <a href="https://spotify.com">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novaterm&bar_color=53b14f&bar_color_cover=false" />
-  </a>
+
+| **Languages** | **Hacking Tools** | **Environment** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,c,cpp,assembly" /> | <img src="https://skillicons.dev/icons?i=bash,git,docker" /> | <img src="https://skillicons.dev/icons?i=kali,linux,vim,vscode" /> |
+| **Python, C/C++, ASM** | **GDB, IDA Pro, Burp** | **Kali, Ubuntu, Arch** |
+
 </div>
 
 ---
 
+### 🏆 **Tournament History (Hall of Fame)**
+
+*Chỗ này là nơi flex nhẹ mấy cái giải đã "chiến". Check my legit stats.*
+
 <div align="center">
 
-### 📡 **Establish Connection**
-
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](LINK_DISCORD)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](LINK_TWITTER)
+| **Placement** | **Event Name** | **Points** | **Rating** | **Status** |
+| :---: | :--- | :---: | :---: | :---: |
+| **#136** 🌎 | **GlacierCTF 2025** | `450.000` | `3.411` | 🔥 COOKED |
+| **#92** 🌎 | **M*CTF 2025 Quals** | `201.000` | `0.663` | 🤖 VIBING |
+| ... | *More to come...* | ... | ... | ⏳ LOADING |
 
 <br>
 
-`CTF{y0u_f0und_th3_s3cr3t_fl4g_sheesh}`
+<!-- Nút bấm giả lập Terminal dẫn về CTFTime -->
+<a href="https://ctftime.org/team/412747">
+  <img src="https://img.shields.io/badge/>_VIEW_FULL_PROFILE_ON_CTFTIME-00FF00?style=style=flat&logo=hack-the-box&logoColor=black&labelColor=black"/>
+</a>
 
 </div>
+
+---
+
+### 📊 **GitHub Statistics (The Grind)**
+
+<div align="center">
+
+  <!-- Github Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD5&icon_color=CB39FF" height="180" alt="stats graph"  />
+
+  <!-- Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD5" height="180" alt="languages graph" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=CB39FF&fire=00FFD5&currStreakNum=00FFD5" alt="streak graph" />
+</div>
+
+---
+
+### 💻 **My Life in Code**
+
+```python
+#!/usr/bin/env python3
+import coffee
+import pwn
+
+class MaiQuocBao:
+    def __init__(self):
+        self.name = "Mai Quốc Bảo"
+        self.sleep_schedule = None  # 404 Not Found
+        self.music = ["Phonk", "Lofi", "Synthwave"]
+
+    def weekend_activity(self):
+        try:
+            while True:
+                pwn.exploit()
+                coffee.sip()
+                if flag_captured:
+                    print("Sheesh! We ballin' 🏀")
+                    break
+        except Exception as e:
+            print("Skill issue detected:", e)
+            # Todo: Git gud
+
+if __name__ == "__main__":
+    me = MaiQuocBao()
+    me.weekend_activity()
